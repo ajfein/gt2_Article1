@@ -64,69 +64,74 @@ font-style: normal;
 
 .scum{
 	/*color: #ffff;*/
-	font-family: 'Girassol', cursive;
-	font-size: 14px;
+	font-family: 'Oxanium', cursive;
+	font-size: 17px;
 	line-height: 0px;
-	letter-spacing: 2px;
+	letter-spacing: 1px;
+	color: #FF42DA;
 }
 
 .block-quote{
 	/*margin-left: 1.5em;*/
 	/*margin-right: 1.5em;*/
-	font-family: 'Ibarra Real Nova', serif;
+	font-family: 'Manuale', serif;
 	font-weight: 500;
-	font-style: italic;
-	font-size: 23px;
-	line-height: 36px;
+	font-style: normal;
+	font-size: 22px;
+	line-height: 31px;
+	text-indent: 0em;
+	margin-top: 10px;
 }
 
 .block-quote-list{
-	margin-left: 2em;
-	margin-bottom: 12px;
-	text-indent: -1em;
-	font-family: 'Ibarra Real Nova', serif;
-	font-weight: 400;
+	margin-bottom: 10px;
+	margin-left: 1.2em;
+	text-indent: 0px;
+	font-family: 'Manuale', serif;
+	font-weight: 500;
 	font-style: italic;
 	font-size: 23px;
-	line-height: 36px;
+	line-height: 40px;
 	/*color: #505050;*/
 }
 
 .pull-quote{
-	font-family: 'Girassol', cursive;
-	font-size: 40px;
-	line-height: 34px;
-	margin-top: 34px;
-	margin-bottom: 34px;
-	color: #BF5C5F;
+	font-family: 'Gruppo', cursive;
+	font-size: 32px;
+	line-height: 45px;
+	margin-left: 2.5em;
+	margin-right: 2.5em;
+	margin-top: 40px;
+	margin-bottom: 40px;
+	color: #FF00DA;
 }
 
 h1{
-	width: 150%;
-	text-align: center;
-	margin-left: -120px;
+	text-align: left;
+	margin-left: -6vw;
 	margin-top: 100px;
-	margin-bottom: 10px;
-	font-family: 'Asset', cursive;
+	margin-bottom: -10px;
+	font-family: 'Oxanium', cursive;
 	font-weight: 400;
 	font-style: normal;
-	font-size: 3vw;
-	line-height: 100%;
+	font-size: 6.55vw;
+	line-height: 80%;
 
 }
 
 .author{
-	font-family: 'Ibarra Real Nova', serif;
-	font-weight: 400;
+	font-family: 'Manuale', serif;
+	font-weight: 500;
 	font-style: italic;
 	font-size: 18px;
+	margin-left: -5vw;
 	margin-bottom: 36px;
 	text-align: left;
 	text-indent: 0em;
 }
 
 .end{
-	font-family: 'Girassol', cursive;
+	font-family: 'Oxanium', cursive;
 	font-size: 25px;
 	margin-top: 50px;
 	text-align: center;
@@ -137,16 +142,16 @@ h1{
 
 
 body{
-	max-width: 50%;
+	max-width: 60%;
 	min-width: 335px;
 	padding:0 20px 0 20px; 
 	margin: auto;
 	margin-top: 50px;
-	font-family: 'Ibarra Real Nova', serif;
-	font-weight: 600;
+	font-family: 'Farro', sans-serif;
+	font-weight: 400;
 	font-style: normal;
-	font-size: 23px;
-	line-height: 29px;
+	font-size: 19px;
+	line-height: 30px;
 	hanging-punctuation: first;
 	font-variant-numeric: oldstyle-nums;
 	hyphens: auto;
